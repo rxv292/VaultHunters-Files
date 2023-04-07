@@ -1,4 +1,4 @@
-How to install the Vault Hunters modpack:
+Sindra's easy 15 step guide to install the modpack.
 
 step 1: Click on the green button that says "code" and then download the .zip file
 
