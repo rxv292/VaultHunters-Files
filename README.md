@@ -2,9 +2,9 @@ Sindra's easy 15 step guide to install the modpack.
 
 step 1: Click on the green button that says "code" and then download the .zip file
 
-step 2: Download the Forge for Minecraft here: https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.2.0/forge-1.18.2-40.2.0-installer.jar
+step 2: Download the Forge for Minecraft Installer here: https://maven.minecraftforge.net/net/minecraftforge/forge/1.18.2-40.2.0/forge-1.18.2-40.2.0-installer.jar
 
-step 3: Run the Forge installer, you shouldn't have to change any settings just confirm
+step 3: Run the Forge installer, you shouldn't have to change any settings just confirm (the installer can be deleted afterwards)
 
 step 4: Extract the zip file and find the ".minecraft" folder
 
@@ -18,7 +18,7 @@ step 8: Go to "Installations" and click "New Installation"
 
 step 9: Give the instance a name. 
 
-step 10: Change the Version to "release 1.18.2-forge-40.2.0" (the thing that was downloaded ealier)
+step 10: Change the Version to "release 1.18.2-forge-40.2.0" (the thing that was installed ealier)
 
 step 11: Click "browse" and find the folder you created in step 5. Go into that and click on .minecraft, then click "ok"
 
