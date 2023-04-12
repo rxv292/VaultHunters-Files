@@ -26,6 +26,8 @@ step 12: Go to "more options" and scroll down. Change the first 2 to an 8, so it
 
 step 13: Save the instance and click "Play" at the top
 
-step 14: Use the dropdown menu to the left of the central "Play" button to select the instance you just made
+step 14: Use the dropdown menu to the left of the big "Play" button to select the instance you just made
 
 step 15: Launch the game, go to "multiplayer" and login to the server with the address "141.144.198.100"
+
+When launching, the game window might stop responding. This is normal, just give it some time. If the game crashes try to relaunch it, it happens occasionally upon startup.
