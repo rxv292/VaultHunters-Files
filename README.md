@@ -10,7 +10,7 @@ step 4: Extract the zip file and find the ".minecraft" folder
 
 step 5: Search for "%appdata%" on your computer and create a new folder, you can call it whatever you want
 
-step 6: Place the .minecraft folder in your new folder
+step 6: Place the .minecraft from the .zip file folder in your new folder
 
 step 7: Open your Minecraft launcher and go to Java Edition
 
