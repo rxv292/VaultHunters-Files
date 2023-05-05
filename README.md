@@ -33,6 +33,7 @@ step 15: Launch the game, go to "multiplayer" and login to the server with the a
 When launching, the game window might stop responding. This is normal, just give it some time. If the game crashes try to relaunch it, it happens occasionally upon startup.
 
 
+
 Sindra's even easier 4 step guide to update the modpack.
 
 step 1: Click on the green button that says "code" and then download the .zip file
