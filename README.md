@@ -1,4 +1,4 @@
-Sindra's easy 15 step guide to install the modpack.
+Sindra's easy 15 step guide to install the modpack. For updating the modpack scroll down.
 
 step 1: Click on the green button that says "code" and then download the .zip file
 
@@ -31,3 +31,14 @@ step 14: Use the dropdown menu to the left of the big "Play" button to select th
 step 15: Launch the game, go to "multiplayer" and login to the server with the address "141.144.198.100"
 
 When launching, the game window might stop responding. This is normal, just give it some time. If the game crashes try to relaunch it, it happens occasionally upon startup.
+
+
+Sindra's even easier 4 step guide to update the modpack.
+
+step 1: Click on the green button that says "code" and then download the .zip file
+
+step 2: search for "%appdata%" on your computer and find the folder that you previously created for the modpack
+
+step 3: go into the folder and then into the .minecraft folder
+
+step 4: replace the "config", "mods", and "scripts" folders with the ones from the newly downloaded .zip file
